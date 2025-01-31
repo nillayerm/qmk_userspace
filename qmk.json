@@ -3,6 +3,7 @@
     "build_targets": [
         ["durgod/k320/base", "nillayerm"],
         ["monsgeek/m2", "nillayerm"],
-        ["ymdk/id75", "nillayerm"]
+        ["ymdk/id75", "nillayerm"],
+        ["winry/winry25tc", "nillayerm"]
     ]
 }
