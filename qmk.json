@@ -1,4 +1,8 @@
 {
-    "userspace_version": "1.0",
-    "build_targets": []
+    "userspace_version": "1.1",
+    "build_targets": [
+        ["durgod/k320/base", "nillayerm"],
+        ["monsgeek/m2", "nillayerm"],
+        ["ymdk/id75", "nillayerm"]
+    ]
 }
